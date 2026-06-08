@@ -1,0 +1,7 @@
+data = {
+    'Id':['S01','S02','S03','S04','S05'],
+    'Student':['Amit','Steve','John','Virat','Rohit'],
+    'Rank':[1,4,3,5,2],
+    'Marks':[95,70,80,60,90]
+
+}
